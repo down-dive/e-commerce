@@ -18,7 +18,7 @@ To install this application:
 * run 'npm i' 
 
 ## Usage
-Just a lazy way to create readme and practice using node applicaion
+A practicle way to manage merchandising 
 
 ## Languages
 Java Script application for ORM practice with node and node modules such as:
