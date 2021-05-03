@@ -1,7 +1,7 @@
 # E-commerce Back End Starter Code
 
 ## Description
-Back end for ecommerce site that helps keep track of the products by dividing it into categories and git giving each item individual tag. Also provides and easy way for adding, updating and deleting any information.
+Back end for ecommerce site that helps keep track of the products by dividing it into categories and giving each item individual tag. Also provides and easy way for adding, updating and deleting any information.
 
 ## Table of Contents
 
